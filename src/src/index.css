@@ -4,6 +4,6 @@
 
 @layer components {
   .navBtn {
-    @apply h-20 w-20 mx-3 my-4
+    @apply h-20 w-20 mx-3 my-4 cursor-pointer
   }
 }
